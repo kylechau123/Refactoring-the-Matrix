@@ -133,13 +133,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer { /* changed from a class element into a type selector */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 { /* changed from a class element into a type selector */
     font-size: 20px;
 }
